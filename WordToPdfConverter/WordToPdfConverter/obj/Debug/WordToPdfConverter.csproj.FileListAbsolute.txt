@@ -1,0 +1,7 @@
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\bin\Debug\WordToPdfConverter.exe.config
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\bin\Debug\WordToPdfConverter.exe
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\bin\Debug\WordToPdfConverter.pdb
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\obj\Debug\WordToPdfConverter.csprojAssemblyReference.cache
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\obj\Debug\WordToPdfConverter.csproj.CoreCompileInputs.cache
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\obj\Debug\WordToPdfConverter.exe
+C:\TFS\Misc\WordToPdfConverter\WordToPdfConverter\obj\Debug\WordToPdfConverter.pdb
